@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@personal.github.com:print-d/print-d.github.io
+	branch = master
