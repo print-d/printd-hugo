@@ -1,0 +1,44 @@
+// Fonts
+@font-face {
+  font-family: 'raleway';
+  src: url('../fonts/Raleway-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'raleway light';
+  src: url('../fonts/Raleway-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'raleway heading';
+  src: url('../fonts/Raleway-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'open sans';
+  src: url('../fonts/OpenSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'open sans light';
+  src: url('../fonts/OpenSans-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// Colors
+$blue: #3d85c6;
+$light-gray: #b7b7b7;
+$body-color: #333333;
+
+// Stylesheets
+@import "responsive";
+@import "main";
